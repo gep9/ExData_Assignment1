@@ -39,7 +39,7 @@ Each of the four R files ('plot1/2/3/4.R') does the following:
 - replace the missing values coded as '?' by NA values
 - merge the Date and Time variable into one variable called 'Date.Time'
 - convert the entries in Date.Time in the date/time format in R using the strptime() and as.POSIXct() functions
-- create a subset by chosing data between 2007-02-01 and 2007-02-02
+- create a subset by choosing data between 2007-02-01 and 2007-02-02
 - create a spezific plot (see above)
 
 
